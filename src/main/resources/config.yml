@@ -1,0 +1,8 @@
+# This defines how far away the player must be for blocks to stop spreading
+MaxDistance: 25
+
+# This defines the delay in ticks for each block that spreads
+BlockDelay: 25
+
+# This defines whether the items of the blocks should be dropped or not
+DoBlocksDrop: true

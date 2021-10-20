@@ -1,0 +1,10 @@
+name: BlockSpread
+version: 1.0
+author: RRRamiro
+main: net.randompvp.blockspread.BlockSpread
+api-version: 1.16
+
+commands: 
+  blockspreadreload: 
+    description: Reloads Block Spread Configuration
+    aliases: [bsreload]
